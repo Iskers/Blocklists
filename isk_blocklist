@@ -42,3 +42,49 @@ www.myfitnesspal.com##.css-1hxzbui.MuiBox-root
 www.myfitnesspal.com##div.css-r8w4fp.MuiBox-root:nth-of-type(4)
 www.myfitnesspal.com##.css-vafq1e.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root
 www.myfitnesspal.com##.css-oex058.MuiBox-root
+
+
+kissmanga.com##+js(setTimeout-defuser.js, (), 30000)
+kissmanga.com##+js(setTimeout-defuser.js, (), 2000)
+kissanime.ru##+js(setTimeout-defuser.js, (), 30000)
+kissanime.ru##+js(setTimeout-defuser.js, (), 2000)
+
+
+
+@@||fwmrm.net/ad/$script,domain=discoveryplus.no/
+
+discoveryplus.no/##[class="notificationArea"]
+
+||akamaihd.net$media,domain=discoveryplus.no/
+
+https://dni-adops-proxy-uat-adopsmediaconverter.mercury.dnitv.com/$media,domain=discoveryplus.no/
+
+https://vgc.no/vgpluss/campaigns/wp.png,domain=vg.no
+
+https://vgc.no/vgpluss/campaigns/$img,domain=vg.no
+
+! 2021-03-16 https://www.discoveryplus.no
+! @@||src.litix.io/bitmovin/3/bitmovin-mux.js$script,domain=www.discoveryplus.no
+
+! 2021-03-16 https://www.discoveryplus.no
+@@||src.litix.io^$script,domain=www.discoveryplus.no
+
+! 2021-07-05 https://www.viafree.no Fixed the playback after blocking a ads
+@@||gcdn.2mdn.net/videoplayback/*$media,domain=www.viafree.no
+
+! 2021-11-28 https://www.twitch.tv
+||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
+
+! 2021-12-31 https://www.facebook.com
+www.facebook.com##.pnx7fd3z.tn0ko95a.pedkr2u6
+www.facebook.com##.ejjq64ki.v8c10jal.e3xpq0al.d2edcug0
+www.facebook.com##li.hw7htvoc.h676nmdw.dawyy4b1.jrc8bbd0.o5zgeu5y.to382e16.buofh1pr:nth-of-type(2)
+www.facebook.com##li.hw7htvoc.h676nmdw.dawyy4b1.jrc8bbd0.o5zgeu5y.to382e16.buofh1pr:nth-of-type(4)
+www.facebook.com##div:nth-of-type(1) > ul > li:nth-of-type(3) > div
+www.facebook.com##div:nth-of-type(1) > ul > li:nth-of-type(4) > div
+
+! 2022-01-02 https://www.bloomberg.com
+||www.bloomberg.com/subscription-offer?ledeText=&curationPage=&digitalRatePlanId1=2c92a0086614a669016615eb9d965f86&digitalRatePlanId2=2c92a0ff682d0657016833ee12df011d&allAccessRatePlanId1=&allAccessRatePlanId2=&inSource=article-wall$subdocument
+www.bloomberg.com##._3YIJb3ff-EezgQbI7OSyQ6
+www.bloomberg.com###fortress-paywall-container-root
+
