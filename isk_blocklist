@@ -1,0 +1,44 @@
+! Dette er min blockliste over adds fra noske aktører.
+
+cfcdn.screen9.com
+
+! 2021-03-26 https://www.discoveryplus.no
+@@||src.litix.io/bitmovin/3/bitmovin-mux.js$script,domain=www.discoveryplus.no
+
+! 2021-08-26 https://old.reddit.com
+old.reddit.com##.cookie-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+
+! 2021-08-26 https://www.reddit.com
+www.reddit.com##.cookie-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+
+! 2021-10-29 https://www.strim.no
+www.strim.no##.cookies__article
+
+! 2021-11-03 https://www.viafree.no
+!@@||5d404.v.fwmrm.net/ad/*$domain=www.viafree.no
+!@@||client-stream-events.mtg-api.com/client-stream-events/*$domain=www.viafree.no
+! Dont delete this
+@@||gcdn.2mdn.net/videoplayback/*$domain=www.viafree.no
+! Dont delete this
+!@@||5d404.v.fwmrm.net^$domain=www.viafree.no
+
+! 2021-11-19 https://www.tronderdebatt.no
+www.tronderdebatt.no##.active > div
+
+! 2021-11-25 https://www.discoveryplus.no
+!@@||dnnstream.tns-cs.net^$domain=www.discoveryplus.no
+!@@||jssdks.mparticle.com^$domain=www.discoveryplus.no
+@@||tpc.googlesyndication.com^$xhr,domain=www.discoveryplus.no
+
+! 2021-12-10 https://www.morgenbladet.no
+||buy.tinypass.com/checkout/template/cacheableShow?aid=bseimjURpu&templateId=OTHYJBKKG13C&templateVariantId=OTVBDK8BSTNL1&offerId=fakeOfferId&experienceId=EXM6BUL9TE65&iframeId=offer_f0e45c7a9eaf238eb345-0&displayMode=modal&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&widget=template&url=https%3A%2F%2Fwww.morgenbladet.no$subdocument
+www.morgenbladet.no##.tp-modal
+www.morgenbladet.no##.tp-active.tp-backdrop
+
+! 2022-02-15 https://www.myfitnesspal.com
+www.myfitnesspal.com##.css-1xaekgw.MuiBox-root > .css-oex058.MuiBox-root
+www.myfitnesspal.com##.css-pummgu.MuiBox-root
+www.myfitnesspal.com##.css-1hxzbui.MuiBox-root
+www.myfitnesspal.com##div.css-r8w4fp.MuiBox-root:nth-of-type(4)
+www.myfitnesspal.com##.css-vafq1e.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded.MuiPaper-elevation.MuiPaper-root
+www.myfitnesspal.com##.css-oex058.MuiBox-root
