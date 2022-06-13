@@ -1,1 +1,18 @@
+! Title: Isk Productivity blocklist
+! Updated: Sat, 13 Jul 2022 00:17:10 +0000
+! Expires: 1 day (update frequency)
+! Homepage: Na
+! License: Na
+! Source: Na
 
+! Blocks content on news sites
+www.vg.no##.app
+www.nrk.no###kurator_main
+
+! Blocks annoying facebook parts
+www.facebook.com##.pnx7fd3z.tn0ko95a.pedkr2u6
+www.facebook.com##.ejjq64ki.v8c10jal.e3xpq0al.d2edcug0
+www.facebook.com##li.hw7htvoc.h676nmdw.dawyy4b1.jrc8bbd0.o5zgeu5y.to382e16.buofh1pr:nth-of-type(2)
+www.facebook.com##li.hw7htvoc.h676nmdw.dawyy4b1.jrc8bbd0.o5zgeu5y.to382e16.buofh1pr:nth-of-type(4)
+www.facebook.com##div:nth-of-type(1) > ul > li:nth-of-type(3) > div
+www.facebook.com##div:nth-of-type(1) > ul > li:nth-of-type(4) > div
